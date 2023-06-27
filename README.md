@@ -1,5 +1,5 @@
-# share-mouse-keyboard
-How to share mouse and keyboard in the local network 
+# [share-mouse-keyboard - How to share mouse and keyboard in the local network](https://tom-sapletta-com.github.io/share-mouse-keyboard/)
+How to share mouse and keyboard in the local network  
 
 
 [16 Best Synergy Alternatives - Rigorous Themes](https://rigorousthemes.com/blog/best-synergy-alternative/#1_ShareMouse)
