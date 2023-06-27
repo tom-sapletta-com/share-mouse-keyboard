@@ -22,4 +22,29 @@ How to share mouse and keyboard in the local network
 - [16\. JeS Multi-Monitor Suite](https://rigorousthemes.com/blog/best-synergy-alternative/#16_JeS_Multi-Monitor_Suite)
 
 
+## Opensource Solutions
+
+
+### Wayland
+
+#### [r-c-f/waynergy: A synergy client for Wayland compositors](https://github.com/r-c-f/waynergy)
+
+An implementation of a synergy client for wayland compositors. Based on the upstream uSynergy library (heavily modified for more protocol support and a bit of paranoia).
+
+
+#### [libinput / libei · GitLab](https://gitlab.freedesktop.org/libinput/libei)
+
+> **libei** is a library for Emulated Input, primarily aimed at the Wayland stack. It provides three parts:
+> 
+> - 🥚 EI (Emulated Input) for the client side (`libei`)
+> - 🍦 EIS (Emulated Input Server) for the server side (`libeis`)
+> - 🚌 oeffis is an optional helper library for DBus communication with the XDG RemoteDesktop portal (`liboeffis`)
+> 
+> The communication between EI and EIS happens over a UNIX socket via a custom binary protocol. See the [EI protocol documentation](https://libinput.pages.freedesktop.org/libei/) for details.
+> 
+> For the purpose of this document, **libei** refers to the project, `libei`/`libeis` to the libraries provided.
+
+
+### X11
+
 + [debauchee/barrier: Open-source KVM software](https://github.com/debauchee/barrier)
